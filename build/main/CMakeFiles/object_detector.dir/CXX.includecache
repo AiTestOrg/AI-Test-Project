@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../main/include/object_detector/object_detector.h
+iostream
+-
+
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/main/src/object_detector/object_detector.cpp
+object_detector/object_detector.h
+-
+

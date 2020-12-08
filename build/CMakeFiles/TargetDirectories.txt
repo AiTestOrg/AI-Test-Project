@@ -1,0 +1,7 @@
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/CMakeFiles/rebuild_cache.dir
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/CMakeFiles/edit_cache.dir
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/main/CMakeFiles/rebuild_cache.dir
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/main/CMakeFiles/edit_cache.dir
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/main/CMakeFiles/object_detector.dir
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/main/CMakeFiles/feature_classifier.dir
+/home/ar/homework/aditya/repos/primary/AI-Test-Project/build/main/CMakeFiles/feature_extractor.dir
