@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/object_detector.dir/src/object_detector/object_detector.cpp.o  -o object_detector 
