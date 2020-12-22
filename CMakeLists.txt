@@ -3,5 +3,5 @@ project (AI-Test-Project)
 find_package(OpenCV REQUIRED)
 
 
-add_subdirectory(main)
+add_subdirectory(util)
 
