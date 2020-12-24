@@ -5,7 +5,7 @@
 #include "opencv2/features2d.hpp"
 #include "opencv2/xfeatures2d.hpp"
 
-using namespace std;
+
 
 feature_extractor::feature_extractor(int feature_type, int max_features):_feature_type(feature_type),_max_features(max_features){
   // 0 is FAST, 1 is ORB, 2 is SURF, 3 is SIFT, 4 is Superpoint
@@ -45,9 +45,4 @@ feature_extractor::feature_extractor(int feature_type, int max_features):_featur
       //   std::cout << "Invalid grade" << std::endl;
    }
   
-}
-
-int main(){
-
-  return 1;
 }
